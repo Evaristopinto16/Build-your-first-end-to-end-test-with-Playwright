@@ -1,0 +1,23 @@
+{
+  "name": "build-your-first-end-to-end-test-with-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evaristopinto16/Build-your-first-end-to-end-test-with-Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Evaristopinto16/Build-your-first-end-to-end-test-with-Playwright/issues"
+  },
+  "homepage": "https://github.com/Evaristopinto16/Build-your-first-end-to-end-test-with-Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.0"
+  }
+}
